@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DragonBallAndroidProject</string>
+    <string name="drabonball">dragon ball</string>
+    <string name="dragonBall">dragon ball</string>
 </resources>
